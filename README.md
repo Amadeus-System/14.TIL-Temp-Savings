@@ -1,2 +1,3 @@
-# 14.C-Language
-Repository for my C-language learning.
+# 14.Today-I-learned-TIL
+Repository for my TIL Records
+
