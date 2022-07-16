@@ -1,3 +1,3 @@
 # 14.Today-I-learned-TIL
-Repository for my TIL Records
+Repository for my Today-I-learned 
 
